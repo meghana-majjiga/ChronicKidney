@@ -1,0 +1,7 @@
+id,age,bp,sg,al,su,rbc,pc,pcc,ba,bgr,bu,sc,sod,pot,hemo,pcv,wc,rc,htn,dm,cad,appet,pe,ane
+138,73.0,,1.01,1.0,0.0,,,notpresent,notpresent,95.0,51.0,1.6,142.0,3.5,,,,,no,no,no,good,no,no
+397,12.0,80.0,1.02,0.0,0.0,normal,normal,notpresent,notpresent,100.0,26.0,0.6,137.0,4.4,15.8,49,6600,5.4,no,no,no,good,no,no
+398,17.0,60.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,114.0,50.0,1.0,135.0,4.9,14.2,51,7200,5.9,no,no,no,good,no,no
+139,41.0,70.0,1.015,2.0,0.0,,abnormal,notpresent,present,,68.0,2.8,132.0,4.1,11.1,33,,,yes,no,no,good,yes,yes
+140,69.0,70.0,1.01,0.0,4.0,,normal,notpresent,notpresent,256.0,40.0,1.2,142.0,5.6,,,,,no,no,no,good,no,no
+399,58.0,80.0,1.025,0.0,0.0,normal,normal,notpresent,notpresent,131.0,18.0,1.1,141.0,3.5,15.8,53,6800,6.1,no,no,no,good,no,no

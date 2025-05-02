@@ -1,0 +1,2 @@
+python ChronicKidneyPrediction.py
+pause
